@@ -1,4 +1,4 @@
-# First project of an automation QA course
+# First project of an automation QA course, coding Java
 
 ТЗ:
 
